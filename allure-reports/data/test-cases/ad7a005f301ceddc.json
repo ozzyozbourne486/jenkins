@@ -1,0 +1,122 @@
+{
+  "uid" : "ad7a005f301ceddc",
+  "name" : "Selenium test GridGate page",
+  "fullName" : "frame.work.qait.AppTest.gridGate",
+  "historyId" : "c897890abfc69bd1d6cbe13b08b47707",
+  "time" : {
+    "start" : 1617781181738,
+    "stop" : 1617781201829,
+    "duration" : 20091
+  },
+  "description" : "Checking the second page of tatoc automation",
+  "descriptionHtml" : "<p>Checking the second page of tatoc automation</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "closing the driver",
+      "time" : {
+        "start" : 1617781200551,
+        "stop" : 1617781201570,
+        "duration" : 1019
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "taking the screen shot",
+        "time" : {
+          "start" : 1617781200551,
+          "stop" : 1617781201251,
+          "duration" : 700
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "setting the screen shto path to the class variable in AppTest class",
+      "time" : {
+        "start" : 1617781201570,
+        "stop" : 1617781201570,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testClass",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "gridGate"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Tester"
+  }, {
+    "name" : "suite",
+    "value" : "Testng testOne"
+  }, {
+    "name" : "subSuite",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "host",
+    "value" : "konig"
+  }, {
+    "name" : "thread",
+    "value" : "24957@konig.TestNG-test=Testng testOne-5(20)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "QAinfo tech trainee"
+  }, {
+    "name" : "feature",
+    "value" : "tatoc automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ad7a005f301ceddc.json",
+  "parameterValues" : [ ]
+}

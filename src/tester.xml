@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Tester" parallel="methods" thread-count="9" >
+  <listeners>
+    <listener class-name="frame.work.Keys.Listerners"/>
+  </listeners>
+    <test name="Testng testOne" >
+      <classes>
+        <class name = "frame.work.qait.AppTest" />
+     </classes>
+    </test>
+  </suite>

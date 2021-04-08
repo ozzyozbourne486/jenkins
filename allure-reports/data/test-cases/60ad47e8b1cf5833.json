@@ -1,0 +1,203 @@
+{
+  "uid" : "60ad47e8b1cf5833",
+  "name" : "Selenium test PopUpWindows page",
+  "fullName" : "frame.work.qait.AppTest.popUpWindow",
+  "historyId" : "e9aef236b28bdf37e5c65d1b62bb4720",
+  "time" : {
+    "start" : 1617810212518,
+    "stop" : 1617810240567,
+    "duration" : 28049
+  },
+  "description" : "Checking the fifth page of tatoc automation",
+  "descriptionHtml" : "<p>Checking the fifth page of tatoc automation</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "navigate to the tatoc PopUpWindow page",
+      "time" : {
+        "start" : 1617810228815,
+        "stop" : 1617810238370,
+        "duration" : 9555
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Lauching the popup window",
+      "time" : {
+        "start" : 1617810238371,
+        "stop" : 1617810238475,
+        "duration" : 104
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Handling the Popup",
+      "time" : {
+        "start" : 1617810238476,
+        "stop" : 1617810239492,
+        "duration" : 1016
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "proceed to the next page",
+      "time" : {
+        "start" : 1617810239492,
+        "stop" : 1617810240033,
+        "duration" : 541
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get the name of the next page",
+      "time" : {
+        "start" : 1617810240033,
+        "stop" : 1617810240069,
+        "duration" : 36
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "closing the driver",
+      "time" : {
+        "start" : 1617810240070,
+        "stop" : 1617810240257,
+        "duration" : 187
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "taking the screen shot",
+        "time" : {
+          "start" : 1617810240070,
+          "stop" : 1617810240128,
+          "duration" : 58
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "7a0b0c3c787d282f",
+        "name" : "Page Screenshot",
+        "source" : "7a0b0c3c787d282f.png",
+        "type" : "image/png",
+        "size" : 59882
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "setting the screen shto path to the class variable in AppTest class",
+      "time" : {
+        "start" : 1617810240257,
+        "stop" : 1617810240257,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testClass",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "popUpWindow"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Tester"
+  }, {
+    "name" : "suite",
+    "value" : "Testng testOne"
+  }, {
+    "name" : "subSuite",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "host",
+    "value" : "konig"
+  }, {
+    "name" : "thread",
+    "value" : "58390@konig.TestNG-test=Testng testOne-8(22)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "QAinfo tech trainee"
+  }, {
+    "name" : "feature",
+    "value" : "tatoc automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "60ad47e8b1cf5833.json",
+  "parameterValues" : [ ]
+}

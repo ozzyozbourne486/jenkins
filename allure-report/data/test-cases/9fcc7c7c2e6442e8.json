@@ -1,0 +1,188 @@
+{
+  "uid" : "9fcc7c7c2e6442e8",
+  "name" : "Selenium test CookieHandling page",
+  "fullName" : "frame.work.qait.AppTest.cookieHandling",
+  "historyId" : "8889012444a5f95c97cc527d6d453201",
+  "time" : {
+    "start" : 1617811481208,
+    "stop" : 1617811515914,
+    "duration" : 34706
+  },
+  "description" : "Checking the sixth page of tatoc automation",
+  "descriptionHtml" : "<p>Checking the sixth page of tatoc automation</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "navigate to the tatoc cookie handling page",
+      "time" : {
+        "start" : 1617811509300,
+        "stop" : 1617811514778,
+        "duration" : 5478
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "setting to the cookie on this page",
+      "time" : {
+        "start" : 1617811514778,
+        "stop" : 1617811515038,
+        "duration" : 260
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "proceed to the next page",
+      "time" : {
+        "start" : 1617811515039,
+        "stop" : 1617811515488,
+        "duration" : 449
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "get the name of the next page",
+      "time" : {
+        "start" : 1617811515489,
+        "stop" : 1617811515520,
+        "duration" : 31
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "closing the driver",
+      "time" : {
+        "start" : 1617811515523,
+        "stop" : 1617811515903,
+        "duration" : 380
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "taking the screen shot",
+        "time" : {
+          "start" : 1617811515523,
+          "stop" : 1617811515628,
+          "duration" : 105
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "c82cad553b7d0065",
+        "name" : "Page Screenshot",
+        "source" : "c82cad553b7d0065.png",
+        "type" : "image/png",
+        "size" : 28495
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "setting the screen shto path to the class variable in AppTest class",
+      "time" : {
+        "start" : 1617811515904,
+        "stop" : 1617811515904,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testClass",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "cookieHandling"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Tester"
+  }, {
+    "name" : "suite",
+    "value" : "Testng testOne"
+  }, {
+    "name" : "subSuite",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "host",
+    "value" : "konig"
+  }, {
+    "name" : "thread",
+    "value" : "60829@konig.TestNG-test=Testng testOne-2(16)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "tatoc automation"
+  }, {
+    "name" : "epic",
+    "value" : "QAinfo tech trainee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9fcc7c7c2e6442e8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,91 @@
+[ {
+  "uid" : "5553ee63da645341",
+  "name" : "Selenium test HoverMenu page",
+  "time" : {
+    "start" : 1617865821658,
+    "stop" : 1617865864238,
+    "duration" : 42580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d88fbbd170cd63d",
+  "name" : "Selenium test DragAround page",
+  "time" : {
+    "start" : 1617865821648,
+    "stop" : 1617865863975,
+    "duration" : 42327
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0dfb337a288bdc4",
+  "name" : "Selenium test FrameDungeon page",
+  "time" : {
+    "start" : 1617865821649,
+    "stop" : 1617865867669,
+    "duration" : 46020
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "78a61eb78512eef2",
+  "name" : "Selenium test landing page",
+  "time" : {
+    "start" : 1617865821648,
+    "stop" : 1617865864920,
+    "duration" : 43272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "32b9e591728a5a4d",
+  "name" : "Selenium test QueryGate page",
+  "time" : {
+    "start" : 1617865821648,
+    "stop" : 1617865870717,
+    "duration" : 49069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c9d84505e683f653",
+  "name" : "Selenium test CookieHandling page",
+  "time" : {
+    "start" : 1617865821652,
+    "stop" : 1617865862103,
+    "duration" : 40451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81b01b048f99f892",
+  "name" : "Selenium test Advance page",
+  "time" : {
+    "start" : 1617865821651,
+    "stop" : 1617865864681,
+    "duration" : 43030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d6ee020ea4a997b",
+  "name" : "Selenium test PopUpWindows page",
+  "time" : {
+    "start" : 1617865821651,
+    "stop" : 1617865864816,
+    "duration" : 43165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2679116ecbc919b",
+  "name" : "Selenium test GridGate page",
+  "time" : {
+    "start" : 1617865821651,
+    "stop" : 1617865864982,
+    "duration" : 43331
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
