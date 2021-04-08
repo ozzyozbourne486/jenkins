@@ -1,0 +1,122 @@
+{
+  "uid" : "e07706f9c1ac2526",
+  "name" : "Selenium test landing page",
+  "fullName" : "frame.work.qait.AppTest.landingPage",
+  "historyId" : "7829594cd6b89f5f0ba7b9a47ef6723a",
+  "time" : {
+    "start" : 1617779832270,
+    "stop" : 1617779852920,
+    "duration" : 20650
+  },
+  "description" : "Checking the first page of tatoc automation",
+  "descriptionHtml" : "<p>Checking the first page of tatoc automation</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "some thing to print",
+      "time" : {
+        "start" : 1617779843158,
+        "stop" : 1617779850702,
+        "duration" : 7544
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "some thing to print",
+      "time" : {
+        "start" : 1617779850702,
+        "stop" : 1617779851238,
+        "duration" : 536
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "some thing to print",
+      "time" : {
+        "start" : 1617779851238,
+        "stop" : 1617779851277,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testClass",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "landingPage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Tester"
+  }, {
+    "name" : "suite",
+    "value" : "Testng testOne"
+  }, {
+    "name" : "subSuite",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "host",
+    "value" : "konig"
+  }, {
+    "name" : "thread",
+    "value" : "21305@konig.TestNG-test=Testng testOne-7(22)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "epic",
+    "value" : "QAinfo tech trainee"
+  }, {
+    "name" : "feature",
+    "value" : "tatoc automation"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e07706f9c1ac2526.json",
+  "parameterValues" : [ ]
+}

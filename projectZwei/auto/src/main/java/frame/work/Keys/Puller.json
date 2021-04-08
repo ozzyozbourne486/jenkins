@@ -1,0 +1,92 @@
+{
+    "HomePage"     : {
+       
+        "nav"            : "http://10.0.1.86/tatoc" ,
+        "heading"        : "//div[@class = 'page']/h1[contains(text(), 'Grid')]",
+        "proceed"        : "//div[@class = 'page']/a[starts-with(@href, '/tatoc') and text() = 'Basic Course']"
+    }, 
+    
+    "GridGate"     : {
+
+        "nav"           : "http://10.0.1.86/tatoc/basic/grid/gate",
+        "heading"       : "//div[@class = 'page']/h1[contains(text(), 'Frame')]",
+        "proceed"       : "//td/div[@class = 'greenbox']"
+
+    },
+
+    "FrameDungeon" : {
+
+        "nav"           : "http://10.0.1.86/tatoc/basic/frame/dungeon",
+        "heading"       : "//div[@class = 'page']/h1[contains(text(), 'Drag')]",
+        "repaintbox"    : "//center/a[contains(text(), 'Box')]",
+        "proceed"       : "//center/a[text() = 'Proceed']",
+        "unchangingbox" : "//center/div[@id = 'answer']",
+        "changingbox"   : "//body/div[@id = 'answer']",
+        "frameOne"      : "main",
+        "frameTwo"      : "child",
+        "att"           : "class"
+    }, 
+
+    "DragAround"    : {
+
+        "nav"           : "http://10.0.1.86/tatoc/basic/drag#",
+        "heading"       : "//div[@class = 'page']/h1",
+        "proceed"       : "//div[@class = 'page']/a[@href = '#']",
+        "dropbox"       : "//div[@class = 'page']/div[@id = 'dropbox']",
+        "dragme"        : "//div[@class = 'page']/div[@id = 'dragbox']"
+    },
+
+    "PopUpWindow"   : {
+
+        "nav"           : "http://10.0.1.86/tatoc/basic/windows#",
+        "heading"       : "//div[@class = 'page']/h1",
+        "launchpopup"   : "//div[@class = 'page']/a[contains(text(), 'Launch')]",
+        "proceed"       : "//div[@class = 'page']/a[contains(text(), 'Proceed')]",
+        "inputbox"      : "//body/input[@id = 'name']",
+        "submitbutton"  : "//body/input[@id = 'submit']"
+    },
+
+    "CookieHandling" : {
+
+       "nav"            : "http://10.0.1.86/tatoc/basic/cookie",
+       "heading"        : "//div[@class = 'page']/h1",
+       "gentoken"       : "//div[@class  = 'page']/a[contains(text(), 'Token')]",
+       "proceed"        : "//div[@class  = 'page']/a[contains(text(), 'Proceed')]",
+       "token"          : "//div[@class  = 'page']/span[@id = 'token']"
+    },
+
+    "AdvancePage"   :  {
+
+        "nav"           : "http://10.0.1.86/tatoc" ,
+        "proceed"       : "//div[@class = 'page']/a[contains(text(), 'Advance')]",
+        "heading"       : "//div[@class = 'page']/h1"    
+    },
+
+    "HoverMenu"     :  {
+
+        "nav"           : "http://10.0.1.86/tatoc/advanced/hover/menu",
+        "proceed"       : "//div[@class = 'menutop m2']/span[@onclick = 'gonext();']",
+        "heading"       : "//div[@class = 'page']/h1",
+        "menutitle"     : "//div[@class = 'menutop m2']/span[@class = 'menutitle']" 
+    },
+
+    "QueryGate"     :  {
+        
+        "nav"           : "http://10.0.1.86/tatoc/advanced/query/gate",
+        "proceed"       : "//center/input[@id = 'submit']",
+        "heading"       : "//div[@class = 'page']/h1",
+        "dbUrl"         : "jdbc:mysql://10.0.1.86/tatoc",
+        "dbUserName"    : "tatocuser",
+        "dbPassword"    : "tatoc01",
+        "symbol"        : "//form[@id = 'symbolform']/div[@id = 'symboldisplay']",
+        "input"         : "//form[@id = 'symbolform']/input[@id = 'name']",
+        "passkey"       : "//form[@id = 'symbolform']/input[@id = 'passkey']"
+    },
+
+    "Ooyala Video Player"  : {
+
+        "nav"           : "http://10.0.1.86/tatoc/advanced/video/player#",
+        "proceed"       : "//div[@class = 'page']/a[@href = '#']",
+        "heading"       : ""
+    } 
+}

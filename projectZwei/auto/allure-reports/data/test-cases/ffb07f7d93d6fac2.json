@@ -1,0 +1,67 @@
+{
+  "uid" : "ffb07f7d93d6fac2",
+  "name" : "Selenium test QueryGate page",
+  "fullName" : "frame.work.qait.AppTest.queryGate",
+  "historyId" : "e42ea35cb379efdad8123a302f810873",
+  "time" : {
+    "start" : 1617779832261,
+    "stop" : 1617779858882,
+    "duration" : 26621
+  },
+  "description" : "Checking the ninth page of tatoc automation",
+  "descriptionHtml" : "<p>Checking the ninth page of tatoc automation</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testClass",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "queryGate"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Tester"
+  }, {
+    "name" : "suite",
+    "value" : "Testng testOne"
+  }, {
+    "name" : "subSuite",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "host",
+    "value" : "konig"
+  }, {
+    "name" : "thread",
+    "value" : "21305@konig.TestNG-test=Testng testOne-9(24)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "tatoc automation"
+  }, {
+    "name" : "epic",
+    "value" : "QAinfo tech trainee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ffb07f7d93d6fac2.json",
+  "parameterValues" : [ ]
+}
