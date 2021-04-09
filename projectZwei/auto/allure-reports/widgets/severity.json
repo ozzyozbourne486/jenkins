@@ -1,0 +1,91 @@
+[ {
+  "uid" : "6b9eb60f4163b86f",
+  "name" : "Selenium test FrameDungeon page",
+  "time" : {
+    "start" : 1617865821649,
+    "stop" : 1617865867669,
+    "duration" : 46020
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d26683c6fdbc841b",
+  "name" : "Selenium test landing page",
+  "time" : {
+    "start" : 1617865821648,
+    "stop" : 1617865864920,
+    "duration" : 43272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f55a7735a0184e5",
+  "name" : "Selenium test HoverMenu page",
+  "time" : {
+    "start" : 1617865821658,
+    "stop" : 1617865864238,
+    "duration" : 42580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a27e8d626c153b10",
+  "name" : "Selenium test PopUpWindows page",
+  "time" : {
+    "start" : 1617865821651,
+    "stop" : 1617865864816,
+    "duration" : 43165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e3edaa9bb39fa1",
+  "name" : "Selenium test DragAround page",
+  "time" : {
+    "start" : 1617865821648,
+    "stop" : 1617865863975,
+    "duration" : 42327
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ddc9da569925070",
+  "name" : "Selenium test Advance page",
+  "time" : {
+    "start" : 1617865821651,
+    "stop" : 1617865864681,
+    "duration" : 43030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "479faf7901a9f3e1",
+  "name" : "Selenium test CookieHandling page",
+  "time" : {
+    "start" : 1617865821652,
+    "stop" : 1617865862103,
+    "duration" : 40451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6577fd6f75ea07b8",
+  "name" : "Selenium test GridGate page",
+  "time" : {
+    "start" : 1617865821651,
+    "stop" : 1617865864982,
+    "duration" : 43331
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "422a54e563449fe7",
+  "name" : "Selenium test QueryGate page",
+  "time" : {
+    "start" : 1617865821648,
+    "stop" : 1617865870717,
+    "duration" : 49069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

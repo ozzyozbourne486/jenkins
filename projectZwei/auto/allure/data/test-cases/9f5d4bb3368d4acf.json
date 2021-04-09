@@ -1,0 +1,255 @@
+{
+  "uid" : "9f5d4bb3368d4acf",
+  "name" : "Selenium test Advance page",
+  "fullName" : "frame.work.qait.AppTest.advancePage",
+  "historyId" : "ba573936148da25bd0687fddcd490bf0",
+  "time" : {
+    "start" : 1617865821651,
+    "stop" : 1617865864681,
+    "duration" : 43030
+  },
+  "description" : "Checking the seventh page of tatoc automation",
+  "descriptionHtml" : "<p>Checking the seventh page of tatoc automation</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "navigating to the advance tatoc page",
+      "time" : {
+        "start" : 1617865846394,
+        "stop" : 1617865858707,
+        "duration" : 12313
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "movin to the next page",
+      "time" : {
+        "start" : 1617865858707,
+        "stop" : 1617865863695,
+        "duration" : 4988
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "getting page name",
+      "time" : {
+        "start" : 1617865863695,
+        "stop" : 1617865863741,
+        "duration" : 46
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "closing the driver",
+      "time" : {
+        "start" : 1617865863741,
+        "stop" : 1617865864679,
+        "duration" : 938
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "taking the screen shot",
+        "time" : {
+          "start" : 1617865863741,
+          "stop" : 1617865863857,
+          "duration" : 116
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ {
+        "uid" : "fecd96413ebf55ac",
+        "name" : "Page Screenshot",
+        "source" : "fecd96413ebf55ac.png",
+        "type" : "image/png",
+        "size" : 31503
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "setting the screen shto path to the class variable in AppTest class",
+      "time" : {
+        "start" : 1617865864679,
+        "stop" : 1617865864680,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 6,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testClass",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "advancePage"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Tester"
+  }, {
+    "name" : "suite",
+    "value" : "Testng testOne"
+  }, {
+    "name" : "subSuite",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "host",
+    "value" : "konig"
+  }, {
+    "name" : "thread",
+    "value" : "6485@konig.TestNG-test=Testng testOne-1(15)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "feature",
+    "value" : "tatoc automation"
+  }, {
+    "name" : "epic",
+    "value" : "QAinfo tech trainee"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "dff7a1f6ee05f00f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617815664078,
+        "stop" : 1617815675516,
+        "duration" : 11438
+      }
+    }, {
+      "uid" : "e741f19facb30048",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617811481199,
+        "stop" : 1617811516464,
+        "duration" : 35265
+      }
+    }, {
+      "uid" : "cbf02ff8b3cc1941",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617810212518,
+        "stop" : 1617810240815,
+        "duration" : 28297
+      }
+    }, {
+      "uid" : "f28bb66418be8de8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617801245845,
+        "stop" : 1617801254508,
+        "duration" : 8663
+      }
+    }, {
+      "uid" : "4b8de162c948ca27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617799702878,
+        "stop" : 1617799712847,
+        "duration" : 9969
+      }
+    }, {
+      "uid" : "b7c4c2d86c51c2a6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617796857331,
+        "stop" : 1617796875629,
+        "duration" : 18298
+      }
+    }, {
+      "uid" : "95bb4b4f3d4298d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617781181738,
+        "stop" : 1617781201829,
+        "duration" : 20091
+      }
+    }, {
+      "uid" : "33d656476018fc17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617779832266,
+        "stop" : 1617779852628,
+        "duration" : 20362
+      }
+    }, {
+      "uid" : "481e7b2085b22de4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617741802544,
+        "stop" : 1617741809706,
+        "duration" : 7162
+      }
+    }, {
+      "uid" : "667a180060cfea6f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617741458004,
+        "stop" : 1617741463864,
+        "duration" : 5860
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f5d4bb3368d4acf.json",
+  "parameterValues" : [ ]
+}

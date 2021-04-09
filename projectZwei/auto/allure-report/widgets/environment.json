@@ -1,0 +1,10 @@
+[ {
+  "values" : [ "Training" ],
+  "name" : "Stand"
+}, {
+  "values" : [ "89.0.4389.114" ],
+  "name" : "Browser.Version"
+}, {
+  "values" : [ "Chrome" ],
+  "name" : "Browser"
+} ]

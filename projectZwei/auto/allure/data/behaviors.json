@@ -1,0 +1,121 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "QAinfo tech trainee",
+    "children" : [ {
+      "name" : "tatoc automation",
+      "children" : [ {
+        "name" : "Selenium test QueryGate page",
+        "uid" : "7dabc258d9c91974",
+        "parentUid" : "9e2e8a5ad3a39ba1936522b4d31f6107",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617865821648,
+          "stop" : 1617865870717,
+          "duration" : 49069
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Selenium test landing page",
+        "uid" : "63b9de0feb33d9e4",
+        "parentUid" : "9e2e8a5ad3a39ba1936522b4d31f6107",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617865821648,
+          "stop" : 1617865864920,
+          "duration" : 43272
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "Selenium test DragAround page",
+        "uid" : "499790377ea373c2",
+        "parentUid" : "9e2e8a5ad3a39ba1936522b4d31f6107",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617865821648,
+          "stop" : 1617865863975,
+          "duration" : 42327
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Selenium test FrameDungeon page",
+        "uid" : "7badc291c05dff6f",
+        "parentUid" : "9e2e8a5ad3a39ba1936522b4d31f6107",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617865821649,
+          "stop" : 1617865867669,
+          "duration" : 46020
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Selenium test GridGate page",
+        "uid" : "e1257d65ebabff06",
+        "parentUid" : "9e2e8a5ad3a39ba1936522b4d31f6107",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617865821651,
+          "stop" : 1617865864982,
+          "duration" : 43331
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Selenium test PopUpWindows page",
+        "uid" : "4f79ac6e8939f930",
+        "parentUid" : "9e2e8a5ad3a39ba1936522b4d31f6107",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617865821651,
+          "stop" : 1617865864816,
+          "duration" : 43165
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Selenium test Advance page",
+        "uid" : "9f5d4bb3368d4acf",
+        "parentUid" : "9e2e8a5ad3a39ba1936522b4d31f6107",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617865821651,
+          "stop" : 1617865864681,
+          "duration" : 43030
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Selenium test CookieHandling page",
+        "uid" : "e4ce9d2cd2e7ae94",
+        "parentUid" : "9e2e8a5ad3a39ba1936522b4d31f6107",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617865821652,
+          "stop" : 1617865862103,
+          "duration" : 40451
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Selenium test HoverMenu page",
+        "uid" : "a78181182c53c247",
+        "parentUid" : "9e2e8a5ad3a39ba1936522b4d31f6107",
+        "status" : "passed",
+        "time" : {
+          "start" : 1617865821658,
+          "stop" : 1617865864238,
+          "duration" : 42580
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9e2e8a5ad3a39ba1936522b4d31f6107"
+    } ],
+    "uid" : "da9d0272200a29f228a918ebe2883924"
+  } ]
+}

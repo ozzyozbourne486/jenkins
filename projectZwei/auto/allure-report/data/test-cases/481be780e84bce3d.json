@@ -1,0 +1,61 @@
+{
+  "uid" : "481be780e84bce3d",
+  "name" : "Selenium test FrameDungeon page",
+  "fullName" : "frame.work.qait.AppTest.frameDungeon",
+  "historyId" : "7e9f89aeab7d0824cc3f231bb4dd246f",
+  "time" : {
+    "start" : 1617741802545,
+    "stop" : 1617741813401,
+    "duration" : 10856
+  },
+  "description" : "Checking the third page of tatoc automation",
+  "descriptionHtml" : "<p>Checking the third page of tatoc automation</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testClass",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "frameDungeon"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Tester"
+  }, {
+    "name" : "suite",
+    "value" : "Testng testOne"
+  }, {
+    "name" : "subSuite",
+    "value" : "frame.work.qait.AppTest"
+  }, {
+    "name" : "host",
+    "value" : "konig"
+  }, {
+    "name" : "thread",
+    "value" : "56788@konig.TestNG-test=Testng testOne-4(19)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "481be780e84bce3d.json",
+  "parameterValues" : [ ]
+}
